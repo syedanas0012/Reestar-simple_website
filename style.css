@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.section-one{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px;
+}
+.section-one p a{
+    text-decoration: none;
+}
+.section-two{
+    text-align: center;
+    padding-top: 10px;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.section-two button{
+    margin-top: 6px;
+   padding: 2px;
+   background-color: black;
+   color: white;
+}
+button:hover{
+    background-color: yellow;
+    color: black;
+    border: 1px black solid;
+}
+.section-two__card-1,.section-two__card-2,.section-two__card-3,.section-two__card-4{
+    border: 2px solid black;
+    display: inline-block;
+    height: 334px;
+    width: 200px;
+    vertical-align: top;
+    margin: 2px;
+}
+.section-three{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    height:157px;
+    padding-top: 15px;
+}
+table {
+    padding-top: 5px;
+    display: inline-block;
+
+}
+.section-three button{
+    width: 212px;
+    background-color: yellow;
+    padding: 2px;
+}
